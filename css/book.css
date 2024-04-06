@@ -92,7 +92,7 @@ header {
     align-items: center;
     justify-content: space-around;
     /* background-color: brown; */
-    background-image: url("/img/section2imggg.jpg");
+    background-image: url("/section2imggg.jpg");
     background-size: cover; 
 
 }
@@ -188,7 +188,7 @@ select {
 .section3 {
     height: 650px;
     /* background-color: rgb(42, 165, 69); */
-    background-image: url("/img/section3imgggg.jpg");
+    background-image: url("/section3imgggg.jpg");
     background-size: cover;
     position: relative;
 }
